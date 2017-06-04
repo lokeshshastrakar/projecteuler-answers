@@ -1,0 +1,23 @@
+body{
+  background: white;
+
+}
+
+
+.headline{
+  width: 1000px;
+  color: #636b6f;
+  margin: 10px auto;
+  font-family: "Raleway";
+  font-weight: 100;
+}
+
+.subhead{
+  display: block;
+  font-family: 'Raleway';
+  width: 800px;
+  color: #636b6f;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 5px;
+}
